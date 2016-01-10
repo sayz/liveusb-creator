@@ -34,32 +34,32 @@ msgstr ""
 #: liveusb/components/DownloadDialog.qml:290
 msgctxt ""
 msgid "Options"
-msgstr ""
+msgstr "Ayarlar"
 
 #: liveusb/components/DownloadDialog.qml:312
 msgctxt ""
 msgid "Cancel"
-msgstr ""
+msgstr "İptal"
 
 #: liveusb/components/DownloadDialog.qml:335
 msgctxt ""
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: liveusb/components/DownloadDialog.qml:335
 msgctxt ""
 msgid "Are you sure?"
-msgstr ""
+msgstr "Emin misin?"
 
 #: liveusb/components/DownloadDialog.qml:335
 msgctxt ""
 msgid "Write to disk"
-msgstr ""
+msgstr "Diske yaz"
 
 #: liveusb/components/DownloadDialog.qml:437
 msgctxt ""
 msgid "Write the image immediately when the download is finished"
-msgstr ""
+msgstr "İndirme biter bitmez imajı yaz"
 
 #: liveusb/components/ImageDetails.qml:46
 #, fuzzy
@@ -97,17 +97,17 @@ msgstr ""
 #: liveusb/components/ImageDetails.qml:226
 msgctxt ""
 msgid "Image files (*.iso)"
-msgstr ""
+msgstr "İmaj dosyaları (*.iso)"
 
 #: liveusb/components/ImageDetails.qml:226
 msgctxt ""
 msgid "All files (*)"
-msgstr ""
+msgstr "Bütün doslayar (*)"
 
 #: liveusb/components/ImageList.qml:85
 msgctxt ""
 msgid "Find an operating system image"
-msgstr ""
+msgstr " Bir işletim sistemi imajı bul."
 
 #: liveusb/components/ImageList.qml:212
 msgctxt ""
@@ -182,7 +182,7 @@ msgstr "Mevcut Çalışan İşletim Sisteminiz Kaldırılıyor..."
 
 #: liveusb/creator.py:350
 msgid "Deleting "
-msgstr ""
+msgstr "Siliniyor"
 
 #: liveusb/creator.py:357
 #, fuzzy, python-format
@@ -197,7 +197,7 @@ msgstr "Önceki Çalışan Sistem kaldırılamıyor: %s"
 #: liveusb/creator.py:379
 #, fuzzy, python-format
 msgid "Cannot find path %r"
-msgstr "Aygıt bulunamıyor %s"
+msgstr "Yol bulunamıyor %s"
 
 #: liveusb/creator.py:410
 #, python-format
@@ -210,7 +210,7 @@ msgstr ""
 
 #: liveusb/creator.py:468
 msgid "Running"
-msgstr ""
+msgstr "Çalışıyor"
 
 #: liveusb/creator.py:517
 msgid ""
